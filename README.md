@@ -1,6 +1,6 @@
 Plugin Name:       Knoppys - Store Notifications for Local Pickup Plus
 Plugin URI:        https://www.knoppys.co.uk
-Description:       Send email notifications to your store locations when using the Local Pickup Plus Plugin. Simply add the Store email add
+Description:       Send email notifications to your store locations when using the Local Pickup Plus Plugin.
 Version:           2
 Author:            Knoppys Digital Limited
 License:           GNU General Public License v2
